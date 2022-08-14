@@ -1,0 +1,15 @@
+1. O que podemos entender por um tipo abstrato de dados? E uma estrutura de dados?
+Um tipo abstrato de dados é o conceito de um conjunto de dados e as funções que podem ser realizadas com eles. Já a estrutura de dados é a implementação de um tipo abstrato de dados, suas relações e organizações lógicas, como linear x não linear.
+
+2. O que são listas lineares?
+São sequências de dados (elementos) do mesmo tipo de dados ordenados x1, x2... x(n) , tal que:
+- x1 é o primeiro elemento da lista e x(n) o último;
+- para todo a, b, se a > b, x(a) é o sucessor de x(b) e vice-versa;
+- n é a quantidade de elementos na lista (se n = 0, a lista está vazia).
+
+3. O que são listas lineares restritas? Cite 2 tipos e respectivas definições.
+São listas lineares cujas operações de inserção e remoção da lista são limitadas em relação às posições dos seus elementos. Exemplos:
+- Pilha: lista que restringe a entrada e saída de dados para apenas o último
+elemento da lista.
+- Fila lista que restringe a entrada de dados pavra apenas o último elemento
+da lista, e a saída para o primeiro elemento.
